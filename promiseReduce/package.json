@@ -1,0 +1,11 @@
+{
+  "name": "promise-reduce",
+  "version": "1.0.0",
+  "description": "promiseReduce(asyncFunctions, reduce, initialValue)",
+  "main": "promiseReduce.js",
+  "scripts": {
+    "start": "node promiseReduce.js"
+  },
+  "author": "Kozhevnikov Artem / artem_leti@mail.ru",
+  "license": "ISC"
+}
