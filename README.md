@@ -1,3 +1,2 @@
-**Repository for homework OTUS**
-
-*Kozhevnikov Artem*
+# kozhevnikov-artem-otus
+Homework project
