@@ -1,0 +1,17 @@
+{
+  "name": "get-path",
+  "version": "1.0.0",
+  "description": "getPath()",
+  "main": "getPath.js",
+  "scripts": {
+    "start": "node getPath.js",
+    "test": "jest"
+  },
+  "author": "Kozhevnikov Artem / artem_leti@mail.ru",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/jest": "^26.0.24",
+    "jest": "^27.0.6"
+  }
+}
